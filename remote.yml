@@ -1,1 +1,1 @@
-url: http://pkgs.pup.wheedev.org/amd64
+choco http://pkgs.pup.wheedev.org/ rolling main extra
